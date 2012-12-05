@@ -11,3 +11,9 @@ The module also provides a complete administrative interface for dealing with no
 --------------------------------------------------------------------------------
 
 This was written as an expirement and was used for about 6 months with good success. However, I haven't used it in years and am just making it available now incase it is useful for anyone else. At the time we used it as part of a developement workflow that included building out the wireframes for a site using Drupapl and then allowing people to review and leave notes with this module.
+
+Example:
+
+https://dl.dropbox.com/u/63787/devel_notes-1.png
+
+https://dl.dropbox.com/u/63787/devel_notes-2.png
